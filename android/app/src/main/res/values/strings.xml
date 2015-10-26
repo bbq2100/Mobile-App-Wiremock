@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Wiremock</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="create_task_fragment_title">Create Task via POST</string>
+    <string name="delete_task_fragment_title">Delete Task via DELETE</string>
+    <string name="task_list_fragment_title">Get Task list via GET</string>
+    <string name="button_fetch">Fetch</string>
+    <string name="networt_error">Fehler beim Ausführen des Requests</string>
+
+    <array name="drawer_menu">
+        <item>Get Task List</item>
+        <item>Create Task</item>
+        <item>Delete Task</item>
+        <item>Get Fancy Task</item>
+    </array>
+
+</resources>

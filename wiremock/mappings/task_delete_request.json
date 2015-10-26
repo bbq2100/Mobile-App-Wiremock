@@ -1,0 +1,9 @@
+{
+    "request": {
+        "method": "DELETE",
+        "urlPattern": "/api/tasks/[1-3]"
+    },
+    "response": {
+        "status": 200
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPath": "/api",
+        "queryParameters": {
+            "q": {
+                "contains": "void"
+            }
+        }
+    },
+    "response": {
+    		"body": "Enter the void",
+            "status": 200
+    }
+}

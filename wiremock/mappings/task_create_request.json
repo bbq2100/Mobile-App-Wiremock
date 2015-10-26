@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/tasks",
+        "bodyPatterns" : [
+            { "equalToJson" : "{ \"title\": \"42\", \"content\": \"42\" }", "jsonCompareMode": "LENIENT" }
+        ]
+    },
+    "response": {
+            "status": 201,
+            "body" : "Created ;)"
+    }
+}

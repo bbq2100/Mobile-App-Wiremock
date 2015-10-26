@@ -1,0 +1,16 @@
+{
+  "request":{
+    "method":"POST",
+    "url":"/api",
+    "bodyPatterns":[
+      {
+        "equalToJson":"{ \"name\": \"Thing\" }",
+        "jsonCompareMode":"LENIENT"
+      }
+    ]
+  },
+  "response":{
+    "body":"created",
+    "status":200
+  }
+}

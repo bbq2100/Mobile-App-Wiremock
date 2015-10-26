@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/tasks"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "task_list_response.json"
+    }
+}

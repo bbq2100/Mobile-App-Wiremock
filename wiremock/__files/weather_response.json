@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 8.68,
+        "lat": 50.12
+    },
+    "sys": {
+        "message": 0.0149,
+        "country": "DE",
+        "sunrise": 1431661097,
+        "sunset": 1431716697
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 10.241,
+        "temp_min": 10.241,
+        "temp_max": 10.241,
+        "pressure": 992.89,
+        "sea_level": 1026.66,
+        "grnd_level": 992.89,
+        "humidity": 96
+    },
+    "wind": {
+        "speed": 1.4,
+        "deg": 345.503
+    },
+    "clouds": {
+        "all": 92
+    },
+    "rain": {
+        "3h": 0.23
+    },
+    "dt": 1431667278,
+    "id": 2925533,
+    "name": "Frankfurt am Main",
+    "cod": 200
+}
