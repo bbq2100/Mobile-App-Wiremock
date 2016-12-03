@@ -3,7 +3,7 @@
 ## How to start the sample code?
 1. Import the sample Android project in AndroidStudio.
 2. Start Wiremock. For further documentation see the `wiremock` directory.
-3. That´s all, folks ;-)
+3. That's all, folks ;-)
 
 ## Directory description
 
